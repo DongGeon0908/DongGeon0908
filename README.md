@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <br>
 ![팔로우](https://img.shields.io/github/followers/DongGeon0908?style=social)  
   
-[![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/east_gun_0908/)](https://www.instagram.com/east_gun_0908//)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/east_gun_0908/)](https://www.instagram.com/east_gun_0908/)
 
 
 ![Gyun's github stats](https://github-readme-stats.vercel.app/api?username=wjdrbs96&show_icons=true&hide_border=true)
