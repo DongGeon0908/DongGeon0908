@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 * 💻 I want to be a great Developer
 
-<br>
+![Alt text](GIT_DOG.png)
 
 ### My Major
 
