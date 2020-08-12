@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 ### ✨ IT Developer ✨
 
 * 💻 I want to be a great Developer
-
+<!--
 ![Alt text](GIT_DOG.png)
-
+-->
 ### My Major
 
 * Java, sh, sql, c
