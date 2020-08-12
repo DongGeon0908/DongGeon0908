@@ -26,11 +26,12 @@ Here are some ideas to get you started:
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/east_gun_0908/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-</div
+</div>
+<br>
 ### ✨ IT Developer ✨
 
 * 💻 I want to be a great Developer
-
+<br>
 ### My Major
 
 * Java, sh, sql, c
