@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 * 💻 I want to be a great Developer
 
-### Interest
+### My Major
 
-* Java, sh, py, sql, js
+* Java, sh, sql, c
 
-* Spring, Linux, 
+* Spring, Linux 
   
 <br>
 <img src="https://img.shields.io/github/followers/DongGeon0908?style=social">
