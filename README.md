@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <div>
 <img src="https://img.shields.io/github/followers/DongGeon0908?style=social">
 
@@ -27,11 +28,15 @@ Here are some ideas to get you started:
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 </div>
+
 <br>
+
 ### ✨ IT Developer ✨
 
 * 💻 I want to be a great Developer
+
 <br>
+
 ### My Major
 
 * Java, sh, sql, c
