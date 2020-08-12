@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 -->
 ### ✨ IT Developer ✨
 
-* 💻 Junior Developers
-
+* 💻 I want to be a great Developer
 
 ### Interest
 
