@@ -38,5 +38,7 @@ Here are some ideas to get you started:
 * Spring, Linux 
   
 <br>
+
 <hr />
+
 ![My git Status](https://github-readme-stats.vercel.app/api?username=DongGeon0908&show_icons=true&hide_border=true)
