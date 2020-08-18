@@ -41,7 +41,9 @@ Here are some ideas to get you started:
 
 * Java, sh, sql, c
 
-* Spring, Linux 
+* Spring, Linux, Server
+
+I Want To Be A Great 💻Developer💻
   
 <br>
 
