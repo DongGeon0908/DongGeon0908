@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!--
 [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/east_gun_0908/)](https://www.instagram.com/east_gun_0908/)
 -->
-<a href="https://instagram.com/alpox.dev">
+<a href="https://instagram.com/east_gun_0908">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/east_gun_0908/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
