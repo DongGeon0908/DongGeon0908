@@ -52,7 +52,7 @@ I Want To Be A Great 💻Developer💻
 |2019|NETWORK|JAVA|Solo|[CHECKSUM](https://github.com/DongGeon0908/CheckSum)|💖|🌒|
 |2019|NETWORK|JAVA|Solo|[PacketTracer](https://github.com/DongGeon0908/PacketTracer)|💖|🌒|
 |2019|ERP|JAVA|Solo|[CHINCHIN_POS](https://github.com/DongGeon0908/SwingProject)|💖|🌒|
-|2020|AI-CHATBOT|PYTHON|Solo|[Hanshin_AI_CHATBOT](https://github.com/HanshinChatBot)|💖|🌓|
+|2020|Data-Analysis|PYTHON|Solo|[Data_With_Pandas](https://github.com/DongGeon0908/Data-Analysis-Report)|💖|🌓|
 |2020|AI-CHATBOT|JAVA|Team|[Hanshin_AI_CHATBOT](https://github.com/HanshinChatBot)|💖|🌓|
 <!--🌒  🌓  🌔  🌕 -->
 <br>
