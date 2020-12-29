@@ -50,8 +50,8 @@ I Want To Be A Great 💻Developer💻
 |연도|분야|언어|프로젝트명|
 |---|---|---|---|
 |2019|NETWORK|JAVA|[CHECKSUM](https://github.com/DongGeon0908/CheckSum)|
-|테스트1|**강조2**||테스트3|
-|2020|AI-CHATBOT|JAVA|테스트3|
+|2019|NETWORK|JAVA|[PacketTracer](https://github.com/DongGeon0908/PacketTracer)|
+|2020|AI-CHATBOT|JAVA|[Hanshin_AI_CHATBOT](https://github.com/HanshinChatBot)|
 
 <br>
 
