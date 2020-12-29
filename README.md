@@ -47,12 +47,12 @@ I Want To Be A Great 💻Developer💻
 
 ### 🔧 My Project
 
-|Year|Field|Language|Type|Project|Process|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|2019|NETWORK|JAVA|Solo|[CHECKSUM](https://github.com/DongGeon0908/CheckSum)|💖|
-|2019|NETWORK|JAVA|Solo|[PacketTracer](https://github.com/DongGeon0908/PacketTracer)|🚴|
-|2019|ERP|JAVA|Solo|[CHINCHIN_POS](https://github.com/DongGeon0908/SwingProject)|🚴|
-|2020|AI-CHATBOT|JAVA|Team|[Hanshin_AI_CHATBOT](https://github.com/HanshinChatBot)|💖|
+|Year|Field|Language|Type|Project|Process|Recommend|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|2019|NETWORK|JAVA|Solo|[CHECKSUM](https://github.com/DongGeon0908/CheckSum)|💖||
+|2019|NETWORK|JAVA|Solo|[PacketTracer](https://github.com/DongGeon0908/PacketTracer)|🚴||
+|2019|ERP|JAVA|Solo|[CHINCHIN_POS](https://github.com/DongGeon0908/SwingProject)|🚴||
+|2020|AI-CHATBOT|JAVA|Team|[Hanshin_AI_CHATBOT](https://github.com/HanshinChatBot)|💖||
 
 <br>
 
