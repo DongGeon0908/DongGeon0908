@@ -47,7 +47,7 @@ I Want To Be A Great 💻Developer💻
 
 ### 🔧 My Project
 
-|연도|분야|언어|프로젝트명|진행과정|
+|Year|Field|언어|프로젝트명|진행과정|
 |:---:|:---:|:---:|:---:|:---:|
 |2019|NETWORK|JAVA|[CHECKSUM](https://github.com/DongGeon0908/CheckSum)|🚴|
 |2019|NETWORK|JAVA|[PacketTracer](https://github.com/DongGeon0908/PacketTracer)|🚴|
