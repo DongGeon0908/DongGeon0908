@@ -47,11 +47,12 @@ I Want To Be A Great 💻Developer💻
 
 ### 🔧 My Project
 
-|연도|분야|언어|프로젝트명|
-|---|---|---|---|
-|2019|NETWORK|JAVA|[CHECKSUM](https://github.com/DongGeon0908/CheckSum)|
-|2019|NETWORK|JAVA|[PacketTracer](https://github.com/DongGeon0908/PacketTracer)|
-|2020|AI-CHATBOT|JAVA|[Hanshin_AI_CHATBOT](https://github.com/HanshinChatBot)|
+|연도|분야|언어|프로젝트명|진행과정|
+|---|---|---|---|---|
+|2019|NETWORK|JAVA|[CHECKSUM](https://github.com/DongGeon0908/CheckSum)|🚴|
+|2019|NETWORK|JAVA|[PacketTracer](https://github.com/DongGeon0908/PacketTracer)|🚴|
+|2019|ERP|JAVA|[CHINCHIN_POS](https://github.com/DongGeon0908/SwingProject)|🚴|
+|2020|AI-CHATBOT|JAVA|[Hanshin_AI_CHATBOT](https://github.com/HanshinChatBot)|💖|
 
 <br>
 
