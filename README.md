@@ -34,16 +34,19 @@ Here are some ideas to get you started:
 ### ✨ IT Developer ✨
 
 I Want To Be A Great 💻Developer💻
-<!--
-![Alt text](GIT_DOG.png)
--->
+
+<br>
+
 ### My Major
 
-* Java, sh, sql, c, ph
+* Java, sh, sql, c, ph, js
 
-* Spring, Linux, Server, DataScience
-
+* Spring, Linux, Server, DataScience, AI, DataScience
   
+<br>
+
+### My Project
+
 <br>
 
 ### ![My git Status](https://github-readme-stats.vercel.app/api?username=DongGeon0908&show_icons=true&hide_border=true)
