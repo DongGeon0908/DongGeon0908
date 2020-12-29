@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ### ✨ IT Developer ✨
 
-* 💻 I want to be a great Developer
+I Want To Be A Great 💻Developer💻
 <!--
 ![Alt text](GIT_DOG.png)
 -->
@@ -43,7 +43,6 @@ Here are some ideas to get you started:
 
 * Spring, Linux, Server, DataScience
 
-I Want To Be A Great 💻Developer💻
   
 <br>
 
