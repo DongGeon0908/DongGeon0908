@@ -63,7 +63,7 @@ I Want To Be A Great 💻Developer💻
 ### 📝 My Study
 
 |Year|Field|Language|Type|Title|Process|Recommend|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |2019|NETWORK|JAVA|Solo|[CHECKSUM](https://github.com/DongGeon0908/CheckSum)|💖|🌒|
 |2019|NETWORK|JAVA, JSP|Solo|[PacketTracer](https://github.com/DongGeon0908/PacketTracer)|💖|🌒|
 |2019|ERP|JAVA, SWING|Solo|[CHINCHIN POS](https://github.com/DongGeon0908/SwingProject)|💖|🌒|
