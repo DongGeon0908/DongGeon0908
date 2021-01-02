@@ -62,16 +62,13 @@ Here are some ideas to get you started:
 
 ### 📝 My Study
 
-|Year|Field|Language|Type|Title|Process|Recommend|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|2019|NETWORK|JAVA|Solo|[CHECKSUM](https://github.com/DongGeon0908/CheckSum)|💖|🌒|
-|2019|NETWORK|JAVA, JSP|Solo|[PacketTracer](https://github.com/DongGeon0908/PacketTracer)|💖|🌒|
-|2019|ERP|JAVA, SWING|Solo|[CHINCHIN POS](https://github.com/DongGeon0908/SwingProject)|💖|🌒|
-|2020|Data-Analysis|PYTHON|Solo|[Data With Pandas](https://github.com/DongGeon0908/Data-Analysis-Report)|💖|🌓|
-|2020|WEB-IDE|JAVA, SH, JSP|Team|[SE.LAB COMPILE SYSTEM](https://github.com/SE-LAB-IDE)|🏃|🌕|
-|2020|WEB-IDE|JAVA, SH, SPRING|Team|[WEB IDE FOR CODING](https://github.com/DongGeon0908/Building-a-coding-test-site-using-WEB-IDE)|💖|🌕|
-|2020|AI-CHATBOT|JAVA, PYTHON, JSP|Team|[Hanshin AI CHATBOT](https://github.com/HanshinChatBot)|💖|🌓|
-<!--🌒  🌓  🌔  🌕 🏃 -->
+|Year|Title|Type|Process|Recommend|
+|:---:|:---:|:---:|:---:|:---:|
+|2019|[BaekJoon Algorithms](https://github.com/DongGeon0908/BAEKJOON)|Solo|🏃|🌔|
+|2020|[Python Algorithms](https://github.com/DongGeon0908/python_basic_algorithm)|Solo|💖|🌔|
+|2020|[Linux CentOS](https://github.com/DongGeon0908/Linux/blob/master/CentOS.md)|Solo|💖|🌓|
+|2020|[Docker For Using Container](https://github.com/DongGeon0908/Docker-Container)|Solo|💖|🌔|
+<!--🌒  🌓  🌔  🌕 🏃 💖 -->
 
 <br>
 
