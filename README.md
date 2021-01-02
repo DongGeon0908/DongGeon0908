@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 > Java, sh, sql, c, ph, js
 
->> Spring, Linux, Server, DataScience, AI, DataScience
+> Spring, Linux, Server, DataScience, AI, DataScience
   
 <br>
 
