@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 
 ### 🔎 My Major
 
-* Java, sh, sql, c, ph, js
+> Java, sh, sql, c, ph, js
 
-* Spring, Linux, Server, DataScience, AI, DataScience
+>> Spring, Linux, Server, DataScience, AI, DataScience
   
 <br>
 
