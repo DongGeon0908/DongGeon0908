@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 > Spring, Linux, Server, DataScience, AI, DataScience
   
-![My git Status](https://github-readme-stats.vercel.app/api?username=DongGeon0908&show_icons=true&hide_border=true)
+<br>
 
 ### 🔧 My Project
 
@@ -71,6 +71,8 @@ Here are some ideas to get you started:
 <!--🌒  🌓  🌔  🌕 🏃 💖 -->
 
 <br>
+
+![My git Status](https://github-readme-stats.vercel.app/api?username=DongGeon0908&show_icons=true&hide_border=true)
 
 
 <!--
