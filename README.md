@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ### ✨ IT Developer ✨
 
-I Want To Be A Great 💻Developer💻
+> I Want To Be A Great 💻Developer💻
 
 <br>
 
