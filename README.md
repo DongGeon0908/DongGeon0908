@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 |2020|WEB IDE|JAVA, SH, JSP, DOCKER|Team|[SE.LAB COMPILE SYSTEM](https://github.com/SE-LAB-IDE)|🏃|🏆|🌓|
 |2020|WEB IDE|JAVA, SH, SPRING, DOCKER|Team|[WEB IDE FOR CODING](https://github.com/DongGeon0908/Building-a-coding-test-site-using-WEB-IDE)|💖|🏆|🌕|
 |2020|AI CHATBOT|JAVA, PYTHON, JSP|Team|[Hanshin AI CHATBOT](https://github.com/HanshinChatBot)|💖||🌓|
-|2021|WEB|JAVA, JSP, DOCKER|Solo|[My Remote Drive](https://github.com/DongGeon0908/My-Remote-Drive)|🏃||🌓|
+|2021|WEB|JAVA, SH, JSP, DOCKER|Solo|[My Remote Drive](https://github.com/DongGeon0908/My-Remote-Drive)|🏃||🌓|
 <!--🌒  🌓  🌔  🌕 🏃 -->
 
 <br>
