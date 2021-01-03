@@ -52,10 +52,10 @@ Here are some ideas to get you started:
 |2019|NETWORK|JAVA|Solo|[CHECKSUM](https://github.com/DongGeon0908/CheckSum)|💖||🌒|
 |2019|NETWORK|JAVA, JSP|Solo|[PacketTracer](https://github.com/DongGeon0908/PacketTracer)|💖||🌒|
 |2019|ERP|JAVA, SWING|Solo|[CHINCHIN POS](https://github.com/DongGeon0908/SwingProject)|💖||🌒|
-|2020|Data-Analysis|PYTHON|Solo|[Data With Pandas](https://github.com/DongGeon0908/Data-Analysis-Report)|💖||🌓|
-|2020|WEB-IDE|JAVA, SH, JSP, DOCKER|Team|[SE.LAB COMPILE SYSTEM](https://github.com/SE-LAB-IDE)|🏃|🏆|🌓|
-|2020|WEB-IDE|JAVA, SH, SPRING, DOCKER|Team|[WEB IDE FOR CODING](https://github.com/DongGeon0908/Building-a-coding-test-site-using-WEB-IDE)|💖|🏆|🌕|
-|2020|AI-CHATBOT|JAVA, PYTHON, JSP|Team|[Hanshin AI CHATBOT](https://github.com/HanshinChatBot)|💖||🌓|
+|2020|Data Analysis|PYTHON|Solo|[Data With Pandas](https://github.com/DongGeon0908/Data-Analysis-Report)|💖||🌓|
+|2020|WEB IDE|JAVA, SH, JSP, DOCKER|Team|[SE.LAB COMPILE SYSTEM](https://github.com/SE-LAB-IDE)|🏃|🏆|🌓|
+|2020|WEB IDE|JAVA, SH, SPRING, DOCKER|Team|[WEB IDE FOR CODING](https://github.com/DongGeon0908/Building-a-coding-test-site-using-WEB-IDE)|💖|🏆|🌕|
+|2020|AI CHATBOT|JAVA, PYTHON, JSP|Team|[Hanshin AI CHATBOT](https://github.com/HanshinChatBot)|💖||🌓|
 |2021|WEB|JAVA, JSP, DOCKER|Solo|[My Remote Drive](https://github.com/DongGeon0908/My-Remote-Drive)|🏃||🌓|
 <!--🌒  🌓  🌔  🌕 🏃 -->
 
