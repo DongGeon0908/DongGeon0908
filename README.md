@@ -81,8 +81,7 @@ Here are some ideas to get you started:
 <br>
 
 ![My git Status](https://github-readme-stats.vercel.app/api?username=DongGeon0908&show_icons=true&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epitoneproject&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DongGeon0908&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 ### ![My git Status](https://github-readme-stats.vercel.app/api?username=DongGeon0908&show_icons=true&hide_border=true)
