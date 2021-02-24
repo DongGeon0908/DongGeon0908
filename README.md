@@ -57,7 +57,10 @@ Here are some ideas to get you started:
 |2020|WEB IDE|JAVA, SH, SPRING, DOCKER|Team|[WEB IDE FOR CODING](https://github.com/DongGeon0908/Building-a-coding-test-site-using-WEB-IDE)|💖|🏆|🌕|
 |2020|AI CHATBOT|JAVA, PYTHON, JSP|Team|[Hanshin AI CHATBOT](https://github.com/HanshinChatBot)|💖|🏆|🌔|
 |2021|WEB|JAVA, SH, JSP, DOCKER|Solo|[DongGeon's Bash](https://github.com/DongGeon0908/DongGeon-Bash)|🏃||🌓|
+|2020|Data Analysis|PYTHON|Solo|[Regional-Polarization](
+https://github.com/DongGeon0908/Regional-Polarization-of-School-Districts-and-Convenience-Facilities)|💖|🏆|🌔|
 <!--🌒  🌓  🌔  🌕 🏃 -->
+
 
 <br>
 
