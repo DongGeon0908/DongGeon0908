@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div>
 <img src="https://img.shields.io/github/followers/DongGeon0908?style=social">
 
-<!--
+<!-- ...------------------
 [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/east_gun_0908/)](https://www.instagram.com/east_gun_0908/)
 -->
 <a href="https://instagram.com/east_gun_0908">
