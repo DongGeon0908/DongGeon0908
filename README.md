@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div>
 <img src="https://img.shields.io/github/followers/DongGeon0908?style=social">
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=KimDongGeon&fontSize=80&animation=twinkling&fontColor=auto)
+
 <!-- ...------------------
 [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/east_gun_0908/)](https://www.instagram.com/east_gun_0908/)
 -->
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 </div>
-
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=KimDongGeon&fontSize=80&animation=twinkling&fontColor=auto)
 <br>
 
 ### ✨ IT Developer ✨
