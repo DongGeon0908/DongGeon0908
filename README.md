@@ -28,7 +28,10 @@ Here are some ideas to get you started:
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 </div>
+<br>
+
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=KimDongGeon&fontSize=80&animation=twinkling&fontColor=auto)
+
 <br>
 
 ### ✨ IT Developer ✨
