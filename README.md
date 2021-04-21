@@ -87,4 +87,4 @@ Here are some ideas to get you started:
 ### ![My git Status](https://github-readme-stats.vercel.app/api?username=DongGeon0908&show_icons=true&hide_border=true)
 -->
 
-![footer](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=footer&text=I Want To Be A Great 💻Developer💻&fontSize=40&animation=twinkling)
+![footer](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=footer&text=I&nbspWant&nbspTo&nbspBe&nbspA&nbspGreat&nbsp💻Developer💻&fontSize=40&animation=twinkling)
