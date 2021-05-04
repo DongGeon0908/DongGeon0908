@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 |2020|WEB IDE|JAVA, SH, SPRING, DOCKER|Team|[WEB IDE FOR CODING](https://github.com/DongGeon0908/Building-a-coding-test-site-using-WEB-IDE)|💖|🏆|🌕|
 |2021|AI CHATBOT|JAVA, PYTHON, JSP|Team|[Hanshin AI CHATBOT](https://github.com/HanshinChatBot)|💖|🏆|🌔|
 |2021|Data Analysis|PYTHON|Solo|[Regional-Polarization](https://github.com/DongGeon0908/Regional-Polarization-of-School-Districts-and-Convenience-Facilities)|💖|🏆|🌔|
-|2021|WEB|JAVA, SPRING|Solo|[cleanGarbage](|2021|Data Analysis|PYTHON|Solo|[Regional-Polarization](https://github.com/DongGeon0908/Regional-Polarization-of-School-Districts-and-Convenience-Facilities)|🏃||🌓|
+|2021|WEB|JAVA, SPRING|Solo|[cleanGarbage](https://github.com/DongGeon0908/CleanGarbage)|🏃||🌓|
 
 <!--🌒  🌓  🌔  🌕 🏃 -->
 
