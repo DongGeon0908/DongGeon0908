@@ -34,7 +34,6 @@ Data by [Jeff Dean](http://research.google.com/people/jeff/)
 
 Originally by [Peter Norvig](http://norvig.com/21-days.html#answers)
 
-
 Lets multiply all these durations by a billion:
 
 Magnitudes:
